@@ -18,19 +18,19 @@ This repo gives a TensorFlow-based implementation of VAE, and reproduces the res
 
 * Original Input: 
 
-<img src='./results/original_x.png'>
+![](https://github.com/xfflzl/tf-VAE/raw/master/results/original_X.png)
 
 * After 5 epochs: 
 
-<img src='./results/generated_X_epoch_5.png'>
+![](https://github.com/xfflzl/tf-VAE/raw/master/results/generated_X_epoch_5.png)
 
 * After 15 epochs: 
 
-<img src='./results/generated_X_epoch_15.png'>
+![](https://github.com/xfflzl/tf-VAE/raw/master/results/generated_X_epoch_15.png)
 
 * After 35 epochs: 
 
-<img src='./results/generated_X_epoch_35.png'>
+![](https://github.com/xfflzl/tf-VAE/raw/master/results/generated_X_epoch_35.png)
 
 ### Contact
 
