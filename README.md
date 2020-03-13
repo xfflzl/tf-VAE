@@ -26,7 +26,7 @@ This repo gives a TensorFlow-based implementation of VAE, and reproduces the res
 
 * After 15 epochs: 
 
-  <img src='./results/generated_X_epoch_15.png'>
+<img src='./results/generated_X_epoch_15.png'>
 
 * After 35 epochs: 
 
