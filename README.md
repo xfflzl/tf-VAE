@@ -16,7 +16,7 @@ This repo gives a TensorFlow-based implementation of VAE, and reproduces the res
 
 ### Results
 
-* Original Input: 
+* Original input: 
 
 ![](https://github.com/xfflzl/tf-VAE/raw/master/results/original_X.png)
 
