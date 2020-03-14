@@ -1,13 +1,13 @@
 ## Variational AutoEncoder in TensorFlow
 
-As a explicit method of fitting given distributions, Variational AutoEncoder ([VAE](https://arxiv.org/abs/1312.6114v10)) attributes all observations `x` obtained so far to a latent variable `Z`. By Bayesian variational inference, VAE actually optimizes a Variational Lower Bound (VLB) and thus achieves huge success in the field of intractable distribution approximation.
+As a explicit method of fitting intractable distributions, Variational AutoEncoder ([VAE](https://arxiv.org/abs/1312.6114v10)) attributes all observations `x` obtained so far to a latent variable `Z`. By Bayesian variational inference, VAE actually optimizes a Variational Lower Bound (VLB) and thus achieves huge success in the field of intractable distribution approximation.
 
 This repo gives a TensorFlow-based implementation of VAE, and reproduces the results recorded in original paper.
 
 ### Dataset
 
 * [MNIST Handwritten Digits](https://cs.nyu.edu/~roweis/data/mnist_all.mat) is used in this repo.
-* The codes are easily revised to run on other datasets.
+* The codes can be easily revised to run on other datasets.
 
 ### Requirement
 
