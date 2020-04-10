@@ -11,7 +11,7 @@ class DataLoader(object):
       train_images_per_digit: Number of training pictures loaded per digit.
       test_images_per_digit: Number of test pictures loaded per digit.
     """
-    def __init__(self, dataFile, dataPath='.\data\\',  
+    def __init__(self, dataFile, dataPath='.\\data\\',  
                  train_images_per_digit=5000, test_images_per_digit=800):
         self.dataPath = os.path.join(dataPath, dataFile)
         self.train_images_per_digit = train_images_per_digit
